@@ -20,7 +20,7 @@ File organizer by categories and extensions.
 
 ## Contact
 
-- AIMDICK ([GitHub](https://github.com/AIMDICK))
+- AIMDYCK ([GitHub](https://github.com/AIMDYCK))
 
 ---
 
