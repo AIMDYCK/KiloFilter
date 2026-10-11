@@ -8,7 +8,8 @@
 # Directories
 bin/
 obj/
-publish/
+# Local publish output (anchored to repo root so nested/legit "publish" dirs are not hidden)
+/publish/
 .vs/
 .vscode/
 packages/
